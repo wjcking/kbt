@@ -1,4 +1,4 @@
-﻿vzs:wjcking.rast.era //kinect-globe\workgroup.html
+﻿-vzs:wjcking.rast.era //kinect-globe\workgroup.html
 维今时代  
    
 维今变形记
