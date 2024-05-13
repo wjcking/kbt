@@ -19,12 +19,14 @@
   //  震颤.不管用
 	//安慰量好,但最终没能治疗
 	//钱氏中医医院:10000
-
-  //国家保险 //Insurance issues,further
+	
+	//Insurance issues,further
+	//Green paper saving account
+  //国家保险
   董新梅家:推搡
 		20000
-		8000   
-  安定医院 //Green paper saving account
+		8000 //哥萨卡 时间 社会  
+  安定医院 
 关键点和原因    
   *附体传话
   没治好 
