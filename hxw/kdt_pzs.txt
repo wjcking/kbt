@@ -1,8 +1,8 @@
 ﻿/*
-*莱昂尼克.Dellogue don't take the wrong way
+*莱昂尼克.DELLOGUE DON'T TAKE THE WRONG WAY
 *帮助执行:奥今萨
 *	关键 财务.全部回馈 倍数奉还
-*  执行咒语：艾萨亚 凯撒雅 Aysaya Keysiya
+*  执行咒语：艾萨亚 凯撒雅 AYSAYA KEYSIYA
 */
 克鲁兹.回馈.附属物.财务
 萨尼克.时间.回溯
@@ -25,7 +25,8 @@
   //国家保险
   董新梅家:推搡
 		20000
-		8000 //附体 时间 社会  哥萨卡
+		8000 //附体 时间 社会  
+		//VJS 哥萨卡
   安定医院 
 关键点和原因    
   *附体传话
