@@ -1,15 +1,16 @@
 ﻿TRS^X 
 SAIRER:SAIXR
-  AntiBeauty
-  FusionUgly
+  ANTIBEAUTY
+  FUSIONUGLY
 SAILI
 
-Cellivate:CellWyde
+CELLIVATE:CELLWYDE
 	UNKNOWN
+	IGENAO RNS
 	EMBRASSMENT 
 
-	SOURCE ORIGIN SEARCH
-Civilize
+	//SOURCE ORIGIN SEARCH
+CIVILIZED
 
 元素起元水 //纪元
 予之元素起 //予轴
@@ -20,6 +21,6 @@ Civilize
 OS别动起源 形状 生物 声音
 结构 组 栈 队 列 链 表 树 散列 堆 图
 
-聚合论 磁欧石 艾磁欧 三介
+聚合论 磁欧石 艾磁欧 三及
   
 
